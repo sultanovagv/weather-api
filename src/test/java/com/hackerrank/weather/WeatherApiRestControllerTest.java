@@ -2,7 +2,7 @@ package com.hackerrank.weather;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.hackerrank.weather.model.Weather;
+import com.hackerrank.weather.entity.Weather;
 import com.hackerrank.weather.repository.WeatherRepository;
 import org.junit.Assert;
 import org.junit.Before;
